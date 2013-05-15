@@ -5,6 +5,7 @@
 <div>
 	Premier ajout
 	<p>J'ai ecrit quelque chosse</p>
+	<h1> otro</h1>
 </div>
 <div class="main_home">
 	<?php
