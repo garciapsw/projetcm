@@ -4,6 +4,7 @@
 ?>
 <div>
 	Premier ajout
+	<p>J'ai ecrit quelque chosse</p>
 </div>
 <div class="main_home">
 	<?php
